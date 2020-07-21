@@ -1,0 +1,5 @@
+Pour connaitre l'opinion publique des clients sur leurs produits , les entreprises exploitent les commentaires et feedbacks de leurs consommateurs et appliquent une 
+des techniques de NLP ( Natural language processing ) qui est l'analyse des sentiments .
+
+Durant ce cahier , nous étudions Naïve Bayes, Random Forest et Support Vector Machines implémentés dans Apache Spark sur un dataset d'Avis des consommateurs sur les produits
+Amazon afin de prédire les sentiments de ces derniers ( positif ou négatif ) et de comparer la performance de ses classifieurs a la fin .
