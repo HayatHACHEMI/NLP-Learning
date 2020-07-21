@@ -3,3 +3,5 @@ des techniques de NLP ( Natural language processing ) qui est l'analyse des sent
 
 Durant ce cahier , nous étudions Naïve Bayes, Random Forest et Support Vector Machines implémentés dans Apache Spark sur un dataset d'Avis des consommateurs sur les produits
 Amazon afin de prédire les sentiments de ces derniers ( positif ou négatif ) et de comparer la performance de ses classifieurs a la fin .
+
+Le notebook est valable sur COlab via : https://colab.research.google.com/gist/HayatHACHEMI/35d6b0958aee9abd5d99a1762bedbd5d/nlp_sentimentanalysis_amazonproducts.ipynb
