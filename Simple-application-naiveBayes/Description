@@ -1,0 +1,15 @@
+- French Version - 
+
+
+Naive Bayes classifiers sont une famille de classificateurs probabilistes simples et multiclasses basés sur l'application du théorème de Bayes avec de fortes hypothèses d'indépendance (naïves) entre chaque paire de caractéristiques.
+Il peut être formé très efficacement. En un seul passage sur les données d'apprentissage, il calcule la distribution de probabilité conditionnelle de chaque caractéristique pour chaque étiquette. Pour la prédiction, il applique le théorème de Bayes pour calculer la distribution de probabilité conditionnelle de chaque étiquette étant donné une observation.
+
+On va exploiter cet algorithme dans deux de ses domains d'applications :
+Analyse des sentiments : Prédiction des sentiments à partir des avis sur les vêtements ,
+Classification de documents : Prédiction de la classification des documents .
+
+1- Avec Spark : Spark.ml ,
+2- Avec scikit learn . 
+
+
+
